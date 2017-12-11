@@ -15,7 +15,7 @@ XCFit is a full stack BDD framework for iOS apps with Swift supports Protocol Or
 
   s.social_media_url = 'https://twitter.com/Shashikant86'
 
-  s.ios.deployment_target = '10.0'
+  s.ios.deployment_target = '9.0'
   s.source_files = 'Sources/*.swift'
   s.framework = "XCTest"
   s.xcconfig = { "ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES" => "NO" }
